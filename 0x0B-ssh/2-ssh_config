@@ -1,0 +1,7 @@
+# SSH Config File
+#
+Host aviwenkambule
+	Hostname 3.84.158.58
+	User ubuntu
+	PasswordAuthentication no
+	IdentityFile ~/.ssh/school
